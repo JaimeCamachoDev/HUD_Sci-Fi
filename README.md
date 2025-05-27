@@ -11,16 +11,5 @@ _**HUD estilo sci-fi con bloques dinámicos y visualización tipo holograma. Ide
    
 <footer>
    
-## Después de crear el repositorio desde la plantilla, asegúrate de revisar lo siguiente:
-
-
-
-### ⚙️ Repository Features
-Desactiva funciones que no necesitas en `Settings → Features`:
-
-- [ ] Confirmar que **Releases** sigue activado ✅
-
-- [ ] Dejar Topics necesarios.
-
 
 </footer>
