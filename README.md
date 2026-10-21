@@ -17,11 +17,21 @@ _**HUD estilo sci-fi con bloques dinámicos y visualización tipo holograma. Ide
 
 ## Contenido
 
-* **VFX Graph:** `Button_Sci-Fi`, `HUD_Sci-Fi_Initialize`, `Sci_Fi_HUD`, `VFX_Sand_Main`
-* **Shader Graph:** `CilinderDown`, `CilinderTop`, `CompassLineInt`, `CompassLineMid`, `Crystal`, `FakeLight_Sphere`, `PlatformCilinderExt`, `Pulse-Letters`, `RetroScreen`, `SquareTextHUD` y 4 más
-* **Scripts:** `BuoyMotion`, `ConstantRotator`, `LookAtCam`
-* **Prefabs:** `CompassPivot`, `CompassPivot 1`, `CrystalSymbol`, `CrystalSymbol_Devotion`, `CrystalSymbol_Faith`, `CrystalSymbol_Fear`, `CrystalSymbol_Hope`, `CrystalSymbol_Love`, `CrystalSymbol_Resilence`, `CrystalSymbol_Sorrow` y 5 más
-* **Escenas:** `Assets/3-Scenes/HUD.unity`, `Assets/3-Scenes/Main.unity`, `Assets/3-Scenes/RetroScreen.unity`
+Efectos en `Assets/2-Art/2-VFX/`:
+
+| Efecto | VFX | Shader Graph | Shaders | Scripts | Prefabs | Materiales |
+|---|---|---|---|---|---|---|
+| **Button_Sci-Fi** | 1 | 2 | — | — | 1 | — |
+| **Compass** | — | 3 | — | — | 1 | 8 |
+| **Crystal Symbol** | — | 1 | — | — | 8 | — |
+| **FakeLight** | — | 1 | — | — | 1 | 1 |
+| **HUD_Sci-Fi** | 1 | — | — | — | 1 | 1 |
+| **HUD_Sci_Fi 2** | 1 | 2 | — | — | — | 1 |
+| **RetroScreen** | — | 1 | — | — | 1 | 1 |
+| **Sand** | 1 | — | — | — | 1 | — |
+| **SymbolsWonders** | — | 4 | — | 1 | 1 | 5 |
+
+**Escenas de demostración:** `Assets/3-Scenes/HUD.unity`, `Assets/3-Scenes/Main.unity`, `Assets/3-Scenes/RetroScreen.unity`
 
 ## Uso
 
